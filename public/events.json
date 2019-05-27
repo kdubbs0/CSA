@@ -3,10 +3,10 @@
         {
             "name": "Mooncake Festival",
             "id": "mooncake_festival",
-            "date": "September 23, 2016",
-            "time": "6:30PM - 9:00PM",
-            "location": "Armory 0131",
-            "description": "At our first General Body Meeting of the year, we will not only be celebrating the mooncake festival but will also be introducing the Chinese Student Association. Students will learn about the club, be introduced to the  E-Board, meet new friends, and learn about the mooncake festival all the while enjoying some delicious mooncake and tea. Come and join us, especially if you’re new to campus!",
+            "date": "September 19, 2019",
+            "time": "TBA",
+            "location": "TBA",
+            "description": "At our first General Body Meeting of the year, we will not only be celebrating the Mooncake Festival, but we will also be introducing the new school year's Chinese Student Association. Students will learn about the club, be introduced to the new E-Board, meet new friends, and learn about the Mooncake Festival all the while enjoying some delicious mooncake and snacks. Come and join us, especially if you are new to campus!",
             "pics": [
                 {
                     "link": "https://www.flickr.com/photos/umcpcsa/albums/72157669721911546",
@@ -28,10 +28,10 @@
         {
             "name":"Concessions",
             "id":"concessions",
-            "date":"Fall 2015",
-            "time": "varies, check the calendar!",
+            "date":"Throughout the fall 2019 semester",
+            "time": "Varies - check the calendar!",
             "location": "Byrd Stadium",
-            "description": "Each year, CSA will work the concession stands during football games! You will have the opportunity to prepare and fry food, serve customers, and enjoy as much fried food as you want while helping out. Please email us at <a href='mailto:csacollegepark@gmail.com'>csacollegepark@gmail.com</a> if you would like to help. Come and join us!",
+            "description": "Each year, CSA will work at its concession stand during home football games! You will have the opportunity to prepare and fry food, serve customers, and enjoy as much of the food we make as you want while helping out. Please sign up on the signup sheet that will be posted on our Facebook page (or email us at <a href='mailto:csacollegepark@gmail.com'>csacollegepark@gmail.com</a>) if you would like to help. Come join us!",
             "pics": [
                 {
                     "link": "https://www.flickr.com/photos/141733233@N04/albums/72157667130091904",
@@ -46,32 +46,21 @@
             ]
         },
         {
-            "name": "Dumpling Night",
-            "id": "dumpling_night",
-            "date": "October 14th, 2016",
-            "time": "7pm - 9pm",
-            "location": "Nyumburu Cultural Center",
-            "description": "Dumpling Night is an annual fall semester General Body Meeting (GBM) where people come together and learn how to make dumplings. Dumpling materials such as the stuffing and dumpling skins will be provided. We teach students how to make dumplings. CSA cooks the dumplings while you enjoy the company of those around you. ",
-            "pics": [
-                {
-                    "link": "https://www.flickr.com/photos/141733233@N04/albums/72157670416359831",
-                    "title": "2014",
-                    "id": "dn_2014"
-                },
-                {
-                  "link": "https://www.flickr.com/photos/umcpcsa/albums/72157675256878405",
-                  "title": "2016",
-                  "id": "dn_2016"
-                }
-            ]
+            "name": "Big/Little Week",
+            "id": "big_little",
+            "date": "Ocotber 28th, 2019 - November 1st, 2019, November 5th, 2019 - November 7th, 2019",
+            "time": "TBA",
+            "location": "TBA",
+            "description": "Ever wanted to be spoiled with food and bubble tea? Or to give someone all of your love, affection, and attention instead of looking through memes on Subtle Asian Dating all day? Come to our Big/Little Week events to be a part of a family who will love and care for you in your best and worst times throughout the year!",
+            "pics": []
         },
         {
             "name": "Hot Pot Night",
             "id": "hotpot_night",
-            "date": "November 17th, 2016",
-            "time": "7pm - 9pm",
+            "date": "November 16th, 2019",
+            "time": "TBA",
             "location": "Nyumburu Cultural Center",
-            "description": "Come and enjoy some hotpot with CSA! For a nominal fee, you’ll enjoy an assortment of delicious food with a table of people. We will provide the hot pot materials, stove, and even entertainment. You just have to show up and get ready to cook and feast.",
+            "description": "Come enjoy some hotpot with CSA! For a small fee, you will devour an assortment of delicious food with a table of people. We will provide food, materials, and even entertainment. Just show up and prepare to feast!",
             "pics": [
                 {
                   "link": "https://www.flickr.com/photos/141733233@N04/albums/72157670049337840",
@@ -88,10 +77,10 @@
         {
             "name": "Lunar Banquet",
             "id": "lunar_banquet",
-            "date": "Spring 2017",
-            "time": "TBD",
-            "location": "TBD",
-            "description": "Lunar Banquet celebrates the lunar festival. It is our biggest event of the year with more than 400 attendees. Good food and  entertainment are always provided. It's a great chance for everyone to gather around and celebrate the start of a new lunar year.",
+            "date": "February 8th, 2020",
+            "time": "TBA",
+            "location": "TBA",
+            "description": "Lunar Banquet, our biggest event of the year, celebrates Lunar New Year. Food and entertainment are always provided. It is a great chance for everyone to gather around and celebrate the start of the new year.",
             "pics": [
                 {
                     "link": "https://www.flickr.com/photos/141733233@N04/albums/72157669318149371",
@@ -102,36 +91,6 @@
                     "link": "https://www.flickr.com/photos/141733233@N04/albums/72157669816058915",
                     "title": "2014",
                     "id": "lb_2014"
-                }
-            ]
-        },
-        {
-            "name": "CFEST",
-            "id": "cfest",
-            "date": "Spring 2016",
-            "time": "TBD",
-            "location": "TBD",
-            "description": "Curious about China’s culture? CSA’s CFest will teach you, through a series of fun activities, about the different regions of China. We will have food and prizes, so come and learn about China’s various cultures and lifestyles. ",
-            "pics": [
-                {
-                    "link": "https://www.flickr.com/photos/141733233@N04/albums/72157669721499976",
-                    "title": "2015",
-                    "id": "cfest_2015"
-                }
-            ]
-        },
-        {
-            "name": "Basketball Tournament",
-            "id": "basketball_tournament",
-            "date": "Spring 2016",
-            "time": "TBD",
-            "location": "TBD",
-            "description": "CSA’s hosts an intramural basketball tournament every year. Put together a team and you will placed into a bracket against other teams. Each team will pay a nominal fee and the winning team will be awarded a cash prize. If you can’t put together a team, don’t worry! We will try our best to match you with players who want to play but don’t have a team.",
-            "pics": [
-                {
-                    "link": "https://www.flickr.com/photos/141733233@N04/albums/72157669317759321",
-                    "title": "2015",
-                    "id": "basketball_tournament_2015"
                 }
             ]
         }
