@@ -1,132 +1,132 @@
 {
   "officers": [
     {
-      "name": "Jiahui Liang",
+      "name": "Alice Wei",
       "role": "Co-President",
-      "major": "Applied Math",
-      "class": "Spring 2019",
-      "funFact": "I'm a CT boy",
-      "id": "jiahui"
+      "major": "Allen Ding",
+      "class": "Spring 2021",
+      "funFact": "I occasionally abuse Allen teehee",
+      "id": "alice"
     },
     {
-      "name": "Richard Chen",
+      "name": "Helen Zhang",
       "role": "Co-President",
-      "major": "Materials Engineering",
-      "class": "Spring 2019",
-      "funFact": "I don't have a middle name nor a Chinese name",
-      "id": "richard"
+      "major": "i forget she does like a million different things. i wanna say pre-law",
+      "class": "Spring 2021",
+      "funFact": "i love csa",
+      "id": "helen"
     },
     {
-      "name": "Lin Chen",
+      "name": "Brian Chin",
       "role": "Secretary",
-      "major": "Computer Engineering & Family Science",
-      "class": "Spring 2019",
-      "funFact": "I like Kongfu and action movie. Really enjoy Chinese music",
-      "id": "lin"
+      "major": "Computer Science",
+      "class": "Spring 2021",
+      "funFact": "i have a gf in cali",
+      "id": "brian"
     },
     {
-      "name": "LiLi Zheng",
-      "role": "VP Finance",
-      "major": "Economic & Business",
-      "class": "Spring 2019",
-      "funFact": "WHAT'S FUN ABOUT ME? GOOD QUESTION CAUSE IDK",
-      "id" : "lili"
+      "name": "Shirley Tang",
+      "role": "Treasurer",
+      "major": "something in Business",
+      "class": "Spring 2020",
+      "funFact": "kenton is the best brother in the world jk i like allen better",
+      "id" : "shirley"
     },
     {
-      "name": "John Soong",
+      "name": "Andrew Liu",
       "role": "External",
-      "major": "Aerospace Engineering",
-      "class": "Spring 2018",
-      "funFact": "Constantly sick",
-      "id" : "john"
-    },
-    {
-      "name": "Michelle Zhang",
-      "role": "Fundraising Chair",
-      "major": "Supply Chain Management & Information Systems",
-      "class": "Spring 2020",
-      "funFact": "I had two turtles as my pets, and I am a BIG Foodie.",
-      "id" : "michelle"
-    },
-    {
-      "name": "Andrew Chen",
-      "role": "Fundraising Chair",
-      "major": "Computer Engineering",
-      "class": "Spring 2020",
-      "funFact": "I can memorize a deck of cards",
-      "id": "andrew_chen"
-    },
-    {
-      "name": "Camilla Wu",
-      "role": "VP of Internal",
-      "major": "Chemistry",
-      "class": "Spring 2020",
-      "funFact": "Love papayas, cantaloupe, mango, clementines. Don't know how to swim lol",
-      "id": "camilla"
-    },
-    {
-      "name": "Siqin Xie",
-      "role": "VP of Internal",
-      "major": "Business",
-      "class": "Spring 2019",
-      "funFact": "I know Morse code and Justin Bieber follows me on twitter",
-      "id": "siqin"
-    },
-    {
-      "name": "Karen Yu",
-      "role": "Marketing/Design",
-      "major": "Marketing",
-      "class": "Spring 2019",
-      "funFact": "I like sleeping and watering my plants.",
-      "id": "space1"
-    },
-    {
-      "name": "Elizabeth Huang",
-      "role": "Marketing/Design",
-      "major": "Supply Chain Management & Marketing",
-      "class": "Spring 2019",
-      "funFact": "I play league on a trackpad",
-      "id": "eli"
-    },
-    {
-      "name": "James Yao",
-      "role": "Sports Chair",
-      "major": "Computer Science & Economic",
-      "class": "Spring 2019",
-      "funFact": "I was born in Iowa",
-      "id":"james"
-    },
-    {
-      "name": "Zizhou(Hank) Wang",
-      "role": "Webmaster",
-      "major": "Computer Science",
-      "class": "Spring 2020",
-      "funFact": "I have hiccups everytime I drink soda",
-      "id": "hank"
-    },
-    {
-      "name": "AK",
-      "role": "Historian",
-      "major": "Computer Science",
-      "class": "Spring 2020",
-      "funFact": "I take pictures. I take fantastic pictures",
-      "id" : "AK"
-    },
-    {
-      "name": "Andrew Gu",
-      "role": "Senior Advisor",
-      "major": "Computer Engineering",        
-      "class": "Spring 2018",
-      "funFact": "I'm CSA's resident Caliboy and I was born in Japan.",
+      "major": "something in Business",
+      "class": "Spring 2021",
+      "funFact": "i secretly attend every rave",
       "id" : "andrew"
     },
     {
-      "name": "Matthew Jiang",
-      "role": "Senior Advisor",
+      "name": "Angena Chen",
+      "role": "Fundraising Chair",
+      "major": "i forget but she seems smart",
+      "class": "Spring 2022",
+      "funFact": "i like stationery",
+      "id" : "angena"
+    },
+    {
+      "name": "Alison Li",
+      "role": "VP of Internal",
+      "major": "Public Health i think??",
+      "class": "Spring 2021",
+      "funFact": "i scare kenton sometimes",
+      "id": "ali"
+    },
+    {
+      "name": "Allison Wei",
+      "role": "VP of Internal",
       "major": "Computer Science",
-      "class": "Spring 2018",
-      "funFact": "Sometimes I can wake up a few minutes before my alarm.",
-      "id" : "matt"
+      "class": "Spring 2021",
+      "funFact": "i am super smart",
+      "id": "allison"
+    },
+    {
+      "name": "Joy Shao",
+      "role": "Marketing/Design",
+      "major": "also something in Business sorry mom",
+      "class": "Spring 2021",
+      "funFact": "i love sports",
+      "id": "joy"
+    },
+    {
+      "name": "Alvin Zhao",
+      "role": "Sports Chair",
+      "major": "Computer Science",
+      "class": "Spring 2021",
+      "funFact": "i love marketing",
+      "id": "alvin"
+    },
+    {
+      "name": "Sylvia Yee",
+      "role": "Webmaster",
+      "major": "Computer Science",
+      "class": "Spring 2022",
+      "funFact": "don't judge me ",
+      "id": "sylvia"
+    },
+    {
+      "name": "Thea Bliss",
+      "role": "Historian",
+      "major": "idk photography lol",
+      "class": "Spring 2020",
+      "funFact": "I take pictures. I take fantastic pictures - lmao guess whose this was before",
+      "id" : "thea"
+    },
+    {
+      "name": "Jessica Lou",
+      "role": "Historian",
+      "major": "idk also photography lol jk",
+      "class": "Spring 2022",
+      "funFact": "I take pictures. I take amazing pictures.",
+      "id": "jessica"
+    },
+    {
+      "name": "Allen Ding",
+      "role": "Senior Advisor",
+      "major": "Civil Engineering",
+      "class": "Spring 2021",
+      "funFact": "someone stole my yeezys last lunar banquet but i found them in the lost and found",
+      "id" : "allen"
+    },
+    {
+      "name": "Julianna Jing",
+      "role": "Senior Advisor",
+      "major": "premed is a weird field",
+      "class": "Spring 2021",
+      "funFact": "i am the youngest in my grade and yet still the oldest",
+      "id" : "juj"
+    },
+    {
+      "name": "Kenton",
+      "role": "Public Relations",
+      "major": "Computer Science",
+      "class": "Spring 2021",
+      "funFact": "someone stole my GPA and then gave it back bc it was somehow in the negatives",
+      "id": "kenton"
     }
   ]
 }
